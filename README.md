@@ -4,6 +4,7 @@ Calculator project for a technical test of Sanitas
 Tracer-1.0.0.jar
 
 It's neccesary to install the jar dependency locally in the .m2 folder using:
+
 mvn install:install-file -Dfile=tracer-1.0.0.jar -DgroupId=io.corp.calculator -DartifactId=tracer
 -Dversion=1.0.0 -Dpackaging=jar -DgeneratePom=true
 ## Execute app
