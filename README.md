@@ -11,5 +11,16 @@ mvn install:install-file -Dfile=tracer-1.0.0.jar -DgroupId=io.corp.calculator -D
 Go to root directory and execute:
 mvn spring-boot:run
 
+### TODO:
+
+Fix develop errors and merge with main branch
+
+Add Swagger UI
+
+#### Command to test:
+
+curl "http://localhost:8080/subtraction/arithmetic?operand1=2&operand2=5"
+
+curl "http://localhost:8080/addition/arithmetic?operand1=2&operand2=5"
 ### Note: 
 use main branch, develop branch has the last changes but It's not working
