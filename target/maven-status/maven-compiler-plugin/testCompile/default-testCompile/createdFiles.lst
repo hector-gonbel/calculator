@@ -1,0 +1,6 @@
+com\sanitas\calculator\CalculatorApplicationTests.class
+com\sanitas\calculator\infraestructure\inputadapter\AdditionAPITest.class
+com\sanitas\calculator\operation\domain\OperationResultTest.class
+com\sanitas\calculator\application\usecase\SubtractionUseCaseTest.class
+com\sanitas\calculator\infraestructure\inputadapter\SubtractionAPITest.class
+com\sanitas\calculator\application\usecase\AdditionUseCaseTest.class

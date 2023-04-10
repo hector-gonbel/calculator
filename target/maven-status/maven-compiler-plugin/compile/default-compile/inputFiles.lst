@@ -1,0 +1,15 @@
+C:\Users\Hector\Documents\Proyectos\Prueba Técnica\calculator\src\main\java\com\sanitas\calculator\operation\application\outputport\LoggingOutputPort.java
+C:\Users\Hector\Documents\Proyectos\Prueba Técnica\calculator\src\main\java\com\sanitas\calculator\operation\domain\BaseOperation.java
+C:\Users\Hector\Documents\Proyectos\Prueba Técnica\calculator\src\main\java\com\sanitas\calculator\operation\infrastructure\ResponseResultDTO.java
+C:\Users\Hector\Documents\Proyectos\Prueba Técnica\calculator\src\main\java\com\sanitas\calculator\operation\application\usecase\SubtractionUseCase.java
+C:\Users\Hector\Documents\Proyectos\Prueba Técnica\calculator\src\main\java\com\sanitas\calculator\operation\domain\Addition.java
+C:\Users\Hector\Documents\Proyectos\Prueba Técnica\calculator\src\main\java\com\sanitas\calculator\operation\infrastructure\outputadapter\LoggingAdapter.java
+C:\Users\Hector\Documents\Proyectos\Prueba Técnica\calculator\src\main\java\com\sanitas\calculator\operation\infrastructure\inputadapter\AdditionAPI.java
+C:\Users\Hector\Documents\Proyectos\Prueba Técnica\calculator\src\main\java\com\sanitas\calculator\CalculatorApplication.java
+C:\Users\Hector\Documents\Proyectos\Prueba Técnica\calculator\src\main\java\com\sanitas\calculator\operation\application\inputport\SubtractionInputPort.java
+C:\Users\Hector\Documents\Proyectos\Prueba Técnica\calculator\src\main\java\com\sanitas\calculator\operation\domain\OperationResult.java
+C:\Users\Hector\Documents\Proyectos\Prueba Técnica\calculator\src\main\java\com\sanitas\calculator\operation\application\usecase\AdditionUseCase.java
+C:\Users\Hector\Documents\Proyectos\Prueba Técnica\calculator\src\main\java\com\sanitas\calculator\operation\infrastructure\inputadapter\SubtractionAPI.java
+C:\Users\Hector\Documents\Proyectos\Prueba Técnica\calculator\src\main\java\com\sanitas\calculator\operation\application\inputport\AdditionInputPort.java
+C:\Users\Hector\Documents\Proyectos\Prueba Técnica\calculator\src\main\java\com\sanitas\calculator\operation\domain\Subtraction.java
+C:\Users\Hector\Documents\Proyectos\Prueba Técnica\calculator\src\main\java\com\sanitas\calculator\operation\domain\Operation.java

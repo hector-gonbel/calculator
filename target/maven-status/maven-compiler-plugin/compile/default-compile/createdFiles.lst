@@ -1,0 +1,15 @@
+com\sanitas\calculator\operation\domain\BaseOperation.class
+com\sanitas\calculator\operation\domain\Operation.class
+com\sanitas\calculator\operation\infrastructure\outputadapter\LoggingAdapter.class
+com\sanitas\calculator\operation\domain\Addition.class
+com\sanitas\calculator\operation\application\outputport\LoggingOutputPort.class
+com\sanitas\calculator\operation\infrastructure\ResponseResultDTO.class
+com\sanitas\calculator\operation\infrastructure\inputadapter\SubtractionAPI.class
+com\sanitas\calculator\operation\application\usecase\SubtractionUseCase.class
+com\sanitas\calculator\operation\application\inputport\AdditionInputPort.class
+com\sanitas\calculator\operation\application\inputport\SubtractionInputPort.class
+com\sanitas\calculator\operation\application\usecase\AdditionUseCase.class
+com\sanitas\calculator\operation\domain\Subtraction.class
+com\sanitas\calculator\CalculatorApplication.class
+com\sanitas\calculator\operation\infrastructure\inputadapter\AdditionAPI.class
+com\sanitas\calculator\operation\domain\OperationResult.class
